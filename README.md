@@ -30,3 +30,10 @@ The project also integrates the smart contract with a blockchain environment usi
 
 ## Project Structure
 ```plaintext
+
+
+## Group  members
+
+-Dariga Seisekeyeva
+-Zarema Bazarova
+-Saniya Zhalgassova
