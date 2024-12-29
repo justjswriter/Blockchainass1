@@ -1,1 +1,2 @@
-# Blockchainass1
+# Blockchain Technologies
+# Assignment 1
